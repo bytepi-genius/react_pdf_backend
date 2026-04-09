@@ -1,7 +1,13 @@
-__pycache__/ 
-*.py[cod] 
-venv/ 
-env/ 
-.env 
-uploads/ 
-*.log 
+"# Python" 
+"__pycache__/" 
+"*.py[cod]" 
+"*$py.class" 
+"venv/" 
+"env/" 
+".env" 
+".venv" 
+"*.log" 
+".DS_Store" 
+"*.pyc" 
+"uploads/*" 
+"!uploads/.gitkeep" 
